@@ -1,0 +1,14 @@
+{
+  "_id": {
+    "$oid": "619de6635158ef50563617aa"
+  },
+  "name": "group2",
+  "members": ["Abi", "Manoj", "Harsh"],
+  "admin": "619b8febb77400a34d2db054",
+  "debts": {
+    "Abijith": 0,
+    "Subash": 50,
+    "Nandan": 70,
+    "Abi": -50
+  }
+}
